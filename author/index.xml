@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on 旅游城市</title>
+    <link>/author/</link>
+    <description>Recent content in Author on 旅游城市</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright</copyright>
+    <atom:link href="/author/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>林健</title>
+      <link>/author/%E6%9E%97%E5%81%A5/</link>
+      <pubDate>Tue, 16 Jan 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/author/%E6%9E%97%E5%81%A5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
